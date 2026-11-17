@@ -1,0 +1,27 @@
+{
+  "logements": {
+    "fichiers": 30,
+    "visuels_pixel_differents": 30,
+    "doublons_exacts": []
+  },
+  "entreprises": {
+    "fichiers": 70,
+    "visuels_pixel_differents": 70,
+    "doublons_exacts": []
+  },
+  "cliqueurs": {
+    "fichiers": 35,
+    "visuels_pixel_differents": 35,
+    "doublons_exacts": []
+  },
+  "vehicules": {
+    "fichiers": 8,
+    "visuels_pixel_differents": 8,
+    "doublons_exacts": []
+  },
+  "jeux": {
+    "fichiers": 6,
+    "visuels_pixel_differents": 6,
+    "doublons_exacts": []
+  }
+}
